@@ -1,6 +1,6 @@
-package unit_01.p02_awt;
+package unit01.p02_awt;
 
-import java.awt.*;
+import java.awt.Frame;
 
 public class BasicFrame {
 

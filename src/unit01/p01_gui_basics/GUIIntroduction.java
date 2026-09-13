@@ -1,4 +1,4 @@
-package unit_01.p01_gui_basics;
+package unit01.p01_gui_basics;
 
 public class GUIIntroduction {
 
